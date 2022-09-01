@@ -1,0 +1,16 @@
+body {
+    background-color:red;
+}
+
+@media only screen and (max width:600px){
+
+  body {background-color: #7ab3fc}
+
+}
+
+
+h1 {
+  background-color: yellow;
+  color: purple;
+  float: right;
+}
